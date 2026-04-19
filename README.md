@@ -4,6 +4,16 @@
 
 The project analyzes public Clash Royale gameplay data to explore player behavior, game balance, and deck performance through data-driven insights. The workflow reflects practical data analyst skills relevant to game analytics environments.
 
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- SQL (SQLite)
+- Plotly
+- BeautifulSoup
+- Jupyter Notebook
+
 ## Objective
 
 - Analyze player preferences through card and deck usage trends
@@ -36,16 +46,26 @@ The project analyzes public Clash Royale gameplay data to explore player behavio
 - Queried top-performing cards and decks
 - Grouped performance by rarity and card type
 - Demonstrated join operations and ranking logic
+## Visual Highlights
 
-## Tools Used
+### Card Usage Share Across Top Meta Decks
+Shows how frequently cards appear across top-ranked meta decks, highlighting the most commonly used cards in competitive deck compositions.
 
-- Python
-- Pandas
-- NumPy
-- SQL (SQLite)
-- Plotly
-- BeautifulSoup
-- Jupyter Notebook
+![Card Usage Share](visualizations/card_usage_share_across_top_meta_decks.png)
+
+---
+
+### Heroes Usage Rate
+Compares usage rates of hero cards to identify the most popular heroes in the current meta.
+
+![Heroes Usage Rate](visualizations/heroes_usage_rate.png)
+
+---
+
+### Usage Rate vs Win Rate
+Analyzes the relationship between card popularity and performance to identify efficient or overperforming cards.
+
+![Usage vs Win Rate](visualizations/usage_vs_winrate.png)
 
 ## Why This Project Matters
 
