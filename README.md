@@ -53,7 +53,7 @@ Modern game teams rely on analytics to improve player experience, evaluate balan
 
 ## Files
 
-- `clash_royale_analysis_markdown_enhanced.ipynb` — Main notebook with analysis, SQL queries, visualizations, and insights
+- `cr_meta_analysis.ipynb` — Main notebook with analysis, SQL queries, visualizations, and insights
 - `data/royaleapi_popular.html` — Raw deck-level HTML source
 - `data/cards_stat.html` — Raw card-level HTML source
   
