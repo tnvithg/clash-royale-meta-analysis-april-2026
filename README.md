@@ -54,6 +54,9 @@ Modern game teams rely on analytics to improve player experience, evaluate balan
 ## Files
 
 - `cr_meta_analysis.ipynb` — Main notebook with analysis, SQL queries, visualizations, and insights
-- `data/royaleapi_popular.html` — Raw deck-level HTML source
-- `data/cards_stat.html` — Raw card-level HTML source
-  
+- `royaleapi_popular.html` — Raw deck-level HTML source. 
+- `cards_stat.html` — Raw card-level HTML source
+
+## Data Source
+
+Public Clash Royale deck and card statistics were collected from RoyaleAPI (https://royaleapi.com) and used for educational analysis project purposes. RoyaleAPI is an independent community resource for Clash Royale statistics and insights.
